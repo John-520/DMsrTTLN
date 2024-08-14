@@ -1,5 +1,4 @@
-# DMsrTTLN
-[IEEE TII 2024] DMsrTTLN code
+# [IEEE TII 2024] DMsrTTLN code
 
 This is the source code for "<b>Deep Multilayer Sparse Regularization Time-Varying Transfer Learning Networks With Dynamic Kullback–Leibler Divergence Weights for Mechanical Fault Diagnosis</b>". You can refer to the following steps to reproduce the cross device fault diagnosis experiment under time-varying speed.
 
