@@ -5,7 +5,7 @@ This is the source code for "Deep Multilayer Sparse Regularization Time-Varying 
 
 ## Dataset Preparation
 
-**You can find the dataset download link in references [24-26], and the paper can be downloaded from my personal homepage[here](https://john-520.github.io/).**
+**You can find the dataset download link in references [24-26], and the paper can be downloaded from my personal homepage [here](https://john-520.github.io/).**
 
 
 ### Cross-Machine Condition
