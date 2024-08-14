@@ -66,16 +66,6 @@ for cishu in range(6):
                 os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
 
 
-
-                '训练集的样本总量'
-                ce_size = 0.5 * (1500)           #
-                ce_size = int(ce_size)
-                data_Cana =['A']
-                data_XJTU = ['XJTU_data']
-                data_HUST = ['A']
-                
-
-       
                     
                 '时变转速下的跨设备研究'
                 def load_data(X_train, Y_train, X_test,Y_test,X_test_t,Y_test_t
