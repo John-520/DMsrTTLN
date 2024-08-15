@@ -32,9 +32,8 @@ If you have any questions, please feel free to contact me:
 
 - **Name:** Feiyu Lu
 - **Email:** 21117039@bjtu.edu.cn
-- **微信公众号:** 轴承智能故障诊断 ![image](https://github.com/user-attachments/assets/c052472c-9bef-41a9-9869-589bc01026e3)
-
-- **个人微信:** lzy1104903884 
+- **微信公众号:** 轴承智能故障诊断 <img src="https://github.com/user-attachments/assets/c052472c-9bef-41a9-9869-589bc01026e3" alt="image" width="100">
+- **个人微信:** lzy1104903884 <img src="https://github.com/user-attachments/assets/da09178f-9cd9-484b-b625-57d8dbca1ce7" alt="image" width="200">
 
 ## Early Access Citation
 
