@@ -32,14 +32,24 @@ If you have any questions, please feel free to contact me:
 
 - **Name:** Feiyu Lu
 - **Email:** 21117039@bjtu.edu.cn
+- **微信公众号:** 轴承智能故障诊断 ![image](https://github.com/user-attachments/assets/c052472c-9bef-41a9-9869-589bc01026e3)
+
+- **个人微信:** lzy1104903884 
 
 ## Early Access Citation
 
 If you find this paper and repository useful, please cite our paper 😊.
 
 ```
-F. Lu, Q. Tong, X. Jiang, Z. Feng, J. Xu and J. Huo, "Deep Multilayer Sparse Regularization Time-Varying Transfer Learning Networks With Dynamic Kullback–Leibler Divergence Weights for Mechanical Fault Diagnosis," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2024.3438229.
-keywords: {Fault diagnosis;Task analysis;Feature extraction;Adaptation models;Vibrations;Nonhomogeneous media;Transfer learning;Cross-device;fault diagnosis;maximum mean diversity (MMD);time-varying;transfer learning},
-
+@ARTICLE{10634863,
+  author={Lu, Feiyu and Tong, Qingbin and Jiang, Xuedong and Feng, Ziwei and Xu, Jianjun and Huo, Jingyi},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={Deep Multilayer Sparse Regularization Time-Varying Transfer Learning Networks With Dynamic Kullback–Leibler Divergence Weights for Mechanical Fault Diagnosis}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Fault diagnosis;Task analysis;Feature extraction;Adaptation models;Vibrations;Nonhomogeneous media;Transfer learning;Cross-device;fault diagnosis;maximum mean diversity (MMD);time-varying;transfer learning},
+  doi={10.1109/TII.2024.3438229}}
 
 ```
