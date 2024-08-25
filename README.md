@@ -52,3 +52,19 @@ If you find this paper and repository useful, please cite our paper 😊.
   doi={10.1109/TII.2024.3438229}}
 
 ```
+
+```
+
+@article{LU2024102536,
+title = {Towards multi-scene learning: A novel cross-domain adaptation model based on sparse filter for traction motor bearing fault diagnosis in high-speed EMU},
+journal = {Advanced Engineering Informatics},
+volume = {60},
+pages = {102536},
+year = {2024},
+issn = {1474-0346},
+doi = {https://doi.org/10.1016/j.aei.2024.102536},
+url = {https://www.sciencedirect.com/science/article/pii/S1474034624001848},
+author = {Feiyu Lu and Qingbin Tong and Jianjun Xu and Ziwei Feng and Xin Wang and Jingyi Huo and Qingzhu Wan},
+keywords = {Bearing fault diagnosis, Sparse filter, Cross-domain adaptation},
+
+```
